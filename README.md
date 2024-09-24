@@ -72,8 +72,8 @@ A dataset containing restaurant tips data, with columns such as total bill, tip 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SujalBochkar/freefaces-images.git
-   cd freefaces-images
+   git [clone https://github.com/SujalBochkar/basic-plots.git
+   cd basic-plots
    ```
 
 2. **Install the required dependencies**:
@@ -91,5 +91,5 @@ A dataset containing restaurant tips data, with columns such as total bill, tip 
 3. **Run the application**:
    To run the Streamlit app, use the command:
    ```bash
-   streamlit run app.py
+   streamlit run plot.py
    ```
